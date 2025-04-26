@@ -18,11 +18,3 @@ Bu layihədə ev əşyalarının (masa, stul, divan və s.) çəkisi, materialı
 
 ## 🎯 Əsas Nəticə
 Model ortalama 17 AZN səhv ilə qiymət proqnozlaşdırdı.
-
-## 📈 Qrafik
-*(Buraya qrafik şəkili əlavə edə bilərsən.)*
-
-## ✨ Gələcək Planlar
-- Böyük datasetlərdə sınamaq
-- Müxtəlif modellərlə müqayisə
-- Hyperparameter tuning tətbiq etmək
